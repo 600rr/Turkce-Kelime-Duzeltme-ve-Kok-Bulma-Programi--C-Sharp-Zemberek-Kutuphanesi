@@ -1,0 +1,20 @@
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.exe.config
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.exe
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.pdb
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\NZemberek.dll
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\log4net.dll
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\Iesi.Collections.Generic.dll
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\Iesi.Collections.dll
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.csprojResolveAssemblyReference.cache
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.exe
+c:\users\uğur kaan\documents\visual studio 2013\Projects\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.pdb
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.exe.config
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.exe
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.pdb
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.exe
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\KelimeDuzeltici.pdb
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\NZemberek.dll
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\log4net.dll
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\Iesi.Collections.Generic.dll
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\bin\Debug\Iesi.Collections.dll
+C:\Users\Uğur Kaan\Desktop\TWITLER\Programlar\KelimeDuzeltici\KelimeDuzeltici\obj\Debug\KelimeDuzeltici.csprojResolveAssemblyReference.cache
